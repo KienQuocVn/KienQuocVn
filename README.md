@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/KienQuocVn.svg" width="1200" alt="KienQuocVn-official" />
+  <img src="svg/KienQuocVN.svg" width="1200" alt="KienQuocVn-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
